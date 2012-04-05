@@ -119,6 +119,13 @@ $messages['ia'] = array(
 	'sii-imageinput-loading' => 'Carga imagine...',
 );
 
+/** Italian (Italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'sii-imageinput-loading' => 'Caricamento immagine...',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
