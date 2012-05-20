@@ -126,6 +126,13 @@ $messages['it'] = array(
 	'sii-imageinput-loading' => 'Caricamento immagine...',
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'sii-imageinput-loading' => '画像を読み込み中...',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
