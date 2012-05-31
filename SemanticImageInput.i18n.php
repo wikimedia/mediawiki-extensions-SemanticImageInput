@@ -123,6 +123,7 @@ $messages['ia'] = array(
  * @author Beta16
  */
 $messages['it'] = array(
+	'sii-desc' => 'Aggiunge un input di immagine che recupera le immagini da Wikipedia verso [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Semantic Forms]',
 	'sii-imageinput-loading' => 'Caricamento immagine...',
 );
 
