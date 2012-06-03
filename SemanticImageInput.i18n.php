@@ -119,7 +119,7 @@ $messages['ia'] = array(
 	'sii-imageinput-loading' => 'Carga imagine...',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
