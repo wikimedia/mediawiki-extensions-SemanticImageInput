@@ -32,7 +32,7 @@ $messages['qqq'] = array(
 The extension looks at Wikipedia articles and figures out which images are used there. These images are then pulled to the local wiki using MediaWikis native instant commons functionality. They are copied to the local server.',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -48,7 +48,7 @@ $messages['be-tarask'] = array(
 	'sii-imageinput-loading' => 'Загрузка выявы…',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -71,7 +71,7 @@ $messages['dsb'] = array(
 	'sii-imageinput-loading' => 'Wobraz se zacytujo...',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
@@ -79,7 +79,7 @@ $messages['es'] = array(
 	'sii-imageinput-loading' => 'Cargando la imagen...',
 );
 
-/** French (Français)
+/** French (français)
  * @author Gomoko
  */
 $messages['fr'] = array(
@@ -111,7 +111,7 @@ $messages['hsb'] = array(
 	'sii-imageinput-loading' => 'Wobraz so začituje...',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -150,7 +150,7 @@ $messages['lb'] = array(
 	'sii-imageinput-loading' => 'Bild gëtt gelueden...',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -175,7 +175,7 @@ $messages['nl'] = array(
 	'sii-imageinput-loading' => 'Bezig met het laden van de afbeelding...',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author BeginaFelicysym
  */
 $messages['pl'] = array(
@@ -206,7 +206,7 @@ $messages['tr'] = array(
 	'sii-imageinput-loading' => 'Resim yükleniyor...',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Linforest
  */
 $messages['zh-hans'] = array(
