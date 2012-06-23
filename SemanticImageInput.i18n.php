@@ -131,6 +131,7 @@ $messages['it'] = array(
  * @author Shirayuki
  */
 $messages['ja'] = array(
+	'sii-desc' => 'ウィキペディアから[https://www.mediawiki.org/wiki/Extension:Semantic_Forms セマンティックフォーム]に画像を引き出すための、画像入力を追加する',
 	'sii-imageinput-loading' => '画像を読み込み中...',
 );
 
