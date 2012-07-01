@@ -40,7 +40,7 @@ $messages['ast'] = array(
 	'sii-imageinput-loading' => 'Cargando la imaxe...',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Renessaince
  */
 $messages['be-tarask'] = array(
@@ -63,7 +63,7 @@ $messages['de'] = array(
 	'sii-imageinput-loading' => 'Das Bild wird gerade geladen …',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -87,7 +87,7 @@ $messages['fr'] = array(
 	'sii-imageinput-loading' => "Chargement de l'image...",
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -103,7 +103,7 @@ $messages['he'] = array(
 	'sii-imageinput-loading' => 'התמונה נטענת...',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
