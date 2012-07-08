@@ -200,6 +200,14 @@ $messages['te'] = array(
 	'sii-imageinput-loading' => 'బొమ్మ లోడవతుతోంది...',
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'sii-desc' => 'Nagdaragdag ng isang pagpapasok ng imahe na humihila ng mga imahe magmula sa Wikipedia papunta sa [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Pormularyong Semantiko]',
+	'sii-imageinput-loading' => 'Ikinakarga ang imahe...',
+);
+
 /** Turkish (Türkçe)
  * @author Emperyan
  */
