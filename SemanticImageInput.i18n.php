@@ -167,6 +167,14 @@ $messages['ms'] = array(
 	'sii-imageinput-loading' => 'Imej sedang dimuatkan...',
 );
 
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
+ * @author Event
+ */
+$messages['nb'] = array(
+	'sii-desc' => 'Legger til et element som henter bilder fra Wikipedia til [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Semantic Forms]',
+	'sii-imageinput-loading' => 'Laster bilde...',
+);
+
 /** Dutch (Nederlands)
  * @author SPQRobin
  * @author Siebrand
