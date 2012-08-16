@@ -87,6 +87,13 @@ $messages['fr'] = array(
 	'sii-imageinput-loading' => "Chargement de l'image...",
 );
 
+/** Franco-Provençal (arpetan)
+ * @author ChrisPtDe
+ */
+$messages['frp'] = array(
+	'sii-imageinput-loading' => 'Chargement de l’émâge...',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
