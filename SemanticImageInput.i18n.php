@@ -238,3 +238,9 @@ $messages['zh-hans'] = array(
 	'sii-imageinput-loading' => '加载图像...',
 );
 
+/** Traditional Chinese (中文（繁體）‎) */
+$messages['zh-hant'] = array(
+	'sii-desc' => '為[https://www.mediawiki.org/wiki/Extension:Semantic_Forms Semantic Forms]（語義表單）添加一個用於從Wikipedia獲取圖像的圖像輸入控件',
+	'sii-imageinput-loading' => '加載圖像...',
+);
+
