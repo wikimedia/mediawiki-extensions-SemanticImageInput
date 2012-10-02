@@ -40,7 +40,7 @@ $messages['ast'] = array(
 	'sii-imageinput-loading' => 'Cargando la imaxe...',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author Renessaince
  */
 $messages['be-tarask'] = array(
@@ -174,7 +174,7 @@ $messages['ms'] = array(
 	'sii-imageinput-loading' => 'Imej sedang dimuatkan...',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Event
  */
 $messages['nb'] = array(
@@ -230,7 +230,7 @@ $messages['tr'] = array(
 	'sii-imageinput-loading' => 'Resim yükleniyor...',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Linforest
  */
 $messages['zh-hans'] = array(
