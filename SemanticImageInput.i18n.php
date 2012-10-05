@@ -208,6 +208,14 @@ $messages['pms'] = array(
 	'sii-imageinput-loading' => 'Cariament ëd la figura...',
 );
 
+/** Swedish (svenska)
+ * @author Martinwiss
+ */
+$messages['sv'] = array(
+	'sii-desc' => 'Lägger till en bild hämtad från Wikipedia till [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Semantic Forms]',
+	'sii-imageinput-loading' => 'Hämtar bild...',
+);
+
 /** Telugu (తెలుగు)
  * @author Veeven
  */
