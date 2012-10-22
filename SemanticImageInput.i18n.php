@@ -142,6 +142,14 @@ $messages['ja'] = array(
 	'sii-imageinput-loading' => '画像を読み込み中...',
 );
 
+/** Korean (한국어)
+ * @author 아라
+ */
+$messages['ko'] = array(
+	'sii-desc' => '[https://www.mediawiki.org/wiki/Extension:Semantic_Forms 시멘틱 양식]에 위키백과에서 그림을 밀어서 그림 입력 추가',
+	'sii-imageinput-loading' => '그림을 불러오는 중...',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
