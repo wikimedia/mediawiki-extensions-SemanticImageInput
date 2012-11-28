@@ -79,6 +79,14 @@ $messages['es'] = array(
 	'sii-imageinput-loading' => 'Cargando la imagen...',
 );
 
+/** Finnish (suomi)
+ * @author Nedergard
+ */
+$messages['fi'] = array(
+	'sii-desc' => 'Lisää kuvien lataustavan, joka noutaa kuvan Wikipediasta [https://www.mediawiki.org/wiki/Extension:Semantic_Forms semanttisiin lomakkeisiin]',
+	'sii-imageinput-loading' => 'Ladataan kuvaa...',
+);
+
 /** French (français)
  * @author Gomoko
  */
