@@ -254,6 +254,13 @@ $messages['tr'] = array(
 	'sii-imageinput-loading' => 'Resim yükleniyor...',
 );
 
+/** Ukrainian (українська)
+ * @author Steve.rusyn
+ */
+$messages['uk'] = array(
+	'sii-imageinput-loading' => 'Завантаження зображення...',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Linforest
  */
