@@ -224,6 +224,14 @@ $messages['pms'] = array(
 	'sii-imageinput-loading' => 'Cariament ëd la figura...',
 );
 
+/** Russian (русский)
+ * @author Pastakhov
+ */
+$messages['ru'] = array(
+	'sii-desc' => 'Добавляет поле для загрузки изображений из Wikipedia в [https://www.mediawiki.org/wiki/Extension:Semantic_Forms cемантические формы]',
+	'sii-imageinput-loading' => 'Идёт загрузка изображения…',
+);
+
 /** Swedish (svenska)
  * @author Martinwiss
  */
@@ -256,8 +264,10 @@ $messages['tr'] = array(
 
 /** Ukrainian (українська)
  * @author Steve.rusyn
+ * @author Ата
  */
 $messages['uk'] = array(
+	'sii-desc' => 'Додає введення зображень, що витягує зображення з Вікіпедії до [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Semantic Forms]',
 	'sii-imageinput-loading' => 'Завантаження зображення...',
 );
 
