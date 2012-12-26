@@ -79,6 +79,13 @@ $messages['es'] = array(
 	'sii-imageinput-loading' => 'Cargando la imagen...',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'sii-imageinput-loading' => 'Pildi laadimine...',
+);
+
 /** Finnish (suomi)
  * @author Nedergard
  */
