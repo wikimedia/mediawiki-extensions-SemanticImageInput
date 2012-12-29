@@ -239,6 +239,13 @@ $messages['ru'] = array(
 	'sii-imageinput-loading' => 'Идёт загрузка изображения…',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'sii-imageinput-loading' => 'පින්තූරය පූරණය වෙමින්...',
+);
+
 /** Swedish (svenska)
  * @author Martinwiss
  */
