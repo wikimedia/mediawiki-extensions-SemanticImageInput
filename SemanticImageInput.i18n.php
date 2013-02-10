@@ -157,6 +157,13 @@ $messages['ja'] = array(
 	'sii-imageinput-loading' => '画像を読み込み中...',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'sii-imageinput-loading' => 'სურათი იტვირთება...',
+);
+
 /** Korean (한국어)
  * @author 아라
  */
