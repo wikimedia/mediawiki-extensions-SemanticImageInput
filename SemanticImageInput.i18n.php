@@ -238,6 +238,14 @@ $messages['pms'] = array(
 	'sii-imageinput-loading' => 'Cariament ëd la figura...',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'sii-desc' => "Aggiunge 'u 'ngresse de le immaggine ca careche immaggine da Uicchipèdie sus a le [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Module Semandeche]",
+	'sii-imageinput-loading' => "Stoche a careche l'immaggine...",
+);
+
 /** Russian (русский)
  * @author Pastakhov
  */
