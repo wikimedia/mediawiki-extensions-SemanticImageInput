@@ -25,10 +25,10 @@ $messages['en'] = array(
 
 /** Message documentation (Message documentation)
  * @author Purodha
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
-	'sii-desc' => '{{desc}}
-
+	'sii-desc' => '{{desc|name=Semantic Image Input|url=http://www.mediawiki.org/wiki/Extension:Semantic_Image_Input}}
 The extension looks at Wikipedia articles and figures out which images are used there. These images are then pulled to the local wiki using MediaWikis native instant commons functionality. They are copied to the local server.',
 );
 
