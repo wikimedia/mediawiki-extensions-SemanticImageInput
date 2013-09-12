@@ -239,6 +239,13 @@ $messages['pms'] = array(
 	'sii-imageinput-loading' => 'Cariament ëd la figura...',
 );
 
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'sii-imageinput-loading' => 'Carregando imagem...',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
