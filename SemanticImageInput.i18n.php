@@ -301,6 +301,7 @@ $messages['tr'] = array(
 
 /** Ukrainian (українська)
  * @author Steve.rusyn
+ * @author SteveR
  * @author Ата
  */
 $messages['uk'] = array(
