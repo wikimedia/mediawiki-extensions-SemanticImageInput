@@ -87,6 +87,13 @@ $messages['et'] = array(
 	'sii-imageinput-loading' => 'Pildi laadimine...',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'sii-imageinput-loading' => 'در حال بارگذاری تصویر...',
+);
+
 /** Finnish (suomi)
  * @author Nedergard
  */
