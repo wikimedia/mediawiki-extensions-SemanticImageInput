@@ -91,6 +91,7 @@ $messages['et'] = array(
  * @author Armin1392
  */
 $messages['fa'] = array(
+	'sii-desc' => 'افزودن ورودی تصویری که تصاویر را از ویکی‌پدیا به [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Semantic Forms] می‌کشد.',
 	'sii-imageinput-loading' => 'در حال بارگذاری تصویر...',
 );
 
