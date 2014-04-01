@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Initialization file for the Semantic Image Input extension.
  *
@@ -34,7 +33,7 @@ if ( ! defined( 'SF_VERSION' ) ) {
 	die( '<b>Error:</b> You need to have <a href="https://www.mediawiki.org/wiki/Extension:Semantic_Forms">Semantic Forms</a> installed in order to use Semantic Image Input.<br />' );
 }
 
-define( 'SII_VERSION', '0.2 alpha' );
+define( 'SII_VERSION', '0.3.0 alpha' );
 
 $wgExtensionCredits['semantic'][] = array(
 	'path' => __FILE__,
@@ -48,7 +47,8 @@ $wgExtensionCredits['semantic'][] = array(
 );
 
 // i18n
-$wgExtensionMessagesFiles['SII'] 				= dirname( __FILE__ ) . '/SemanticImageInput.i18n.php';
+$wgMessagesDirs['SemanticImageInput'] = __DIR__ . '/i18n';
+$wgExtensionMessagesFiles['SemanticImageInput'] = dirname( __FILE__ ) . '/SemanticImageInput.i18n.php';
 
 // Autoloading
 $wgAutoloadClasses['SIISettings'] 				= dirname( __FILE__ ) . '/SemanticImageInput.settings.php';
@@ -75,7 +75,7 @@ unset( $moduleTemplate );
 $egSIISettings = array();
 
 function efSIISetup() {
-	
+
 	global $sfgFormPrinter;
 	$sfgFormPrinter->registerInputType( 'InstantImageInput' );
 }
