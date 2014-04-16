@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Avjoska"
-        ]
-    },
-    "sii-imageinput-loading": "Pildi laadimine..."
+	"@metadata": {
+		"authors": [
+			"Avjoska"
+		]
+	},
+	"sii-imageinput-loading": "Pildi laadimine..."
 }

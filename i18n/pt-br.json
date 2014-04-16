@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cainamarques"
-        ]
-    },
-    "sii-imageinput-loading": "Carregando imagem..."
+	"@metadata": {
+		"authors": [
+			"Cainamarques"
+		]
+	},
+	"sii-imageinput-loading": "Carregando imagem..."
 }
