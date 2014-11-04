@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Protnet"
+		]
+	},
+	"sii-desc": "Προσθέτει ένα πλαίσιο εισαγωγής εικόνων που τραβά εικόνες από τη Βικιπαίδεια στις [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Σημασιολογική Φόρμες]",
+	"sii-imageinput-loading": "Φόρτωση εικόνας σε εξέλιξη..."
+}
