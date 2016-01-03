@@ -53,25 +53,25 @@ class InstantImageInput extends SFFormInput {
 		$params[] = array(
 			'name' => 'type',
 			'type' => 'str',
-			'description' => wfMsg( 'sii-imageinput-type' )
+			'description' => wfMessage( 'sii-imageinput-type' )->text()
 		); // page
 		
 		$params[] = array(
 			'name' => 'hide',
 			'type' => 'bool',
-			'description' => wfMsg( 'sii-imageinput-hide' )
+			'description' => wfMessage( 'sii-imageinput-hide' )->text()
 		); // false
 		
 		$params[] = array(
 			'name' => 'width',
 			'type' => 'int',
-			'description' => wfMsg( 'sii-imageinput-width' )
+			'description' => wfMessage( 'sii-imageinput-width' )->text()
 		); // 200
 		
 		$params[] = array(
 			'name' => 'showdefault',
 			'type' => 'bool',
-			'description' => wfMsg( 'sii-imageinput-showdefault' )
+			'description' => wfMessage( 'sii-imageinput-showdefault' )->text()
 		); // true
 		
 		return $params;
@@ -100,7 +100,7 @@ class InstantImageInput extends SFFormInput {
 		
 		if ( $showInForm && !$noImage ) {
 			if ( $noImage ) {
-				$html .= wfMsg( 'sii-imageinput-loading' );
+				$html .= wfMessage( 'sii-imageinput-loading' )->escaped();
 			}
 			else {
 				global $wgParser;
