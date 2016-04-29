@@ -25,7 +25,7 @@ if ( version_compare( $wgVersion, '1.17c', '<' ) ) { // Needs to be 1.17c becaus
 
 // Show an error if Semantic MediaWiki is not loaded.
 if ( ! defined( 'SMW_VERSION' ) ) {
-	die( '<b>Error:</b> You need to have <a href="http://semantic-mediawiki.org/wiki/Semantic_MediaWiki">Semantic MediaWiki</a> installed in order to use Semantic Image Input.<br />' );
+	die( '<b>Error:</b> You need to have <a href="https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki">Semantic MediaWiki</a> installed in order to use Semantic Image Input.<br />' );
 }
 
 // Show an error if Semantic MediaWiki is not loaded.
@@ -40,26 +40,25 @@ $wgExtensionCredits['semantic'][] = array(
 	'name' => 'Semantic Image Input',
 	'version' => SII_VERSION,
 	'author' => array(
-		'[http://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]',
+		'[https://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]',
 	),
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Semantic_Image_input',
-	'descriptionmsg' => 'sii-desc'
+	'descriptionmsg' => 'sii-desc',
+	'license-name' => 'GPL-3.0+'
 );
 
 // i18n
 $wgMessagesDirs['SemanticImageInput'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['SemanticImageInput'] = dirname( __FILE__ ) . '/SemanticImageInput.i18n.php';
+$wgExtensionMessagesFiles['SemanticImageInput'] = __DIR__ . '/SemanticImageInput.i18n.php';
 
 // Autoloading
-$wgAutoloadClasses['SIISettings'] 				= dirname( __FILE__ ) . '/SemanticImageInput.settings.php';
-
-$wgAutoloadClasses['InstantImageInput'] 		= dirname( __FILE__ ) . '/includes/InstantImageInput.php';
-
+$wgAutoloadClasses['SIISettings'] = __DIR__ . '/SemanticImageInput.settings.php';
+$wgAutoloadClasses['InstantImageInput']	= __DIR__ . '/includes/InstantImageInput.php';
 $wgExtensionFunctions[] = 'efSIISetup';
 
 // Resource loader modules
 $moduleTemplate = array(
-	'localBasePath' => dirname( __FILE__ ) . '/resources',
+	'localBasePath' => __DIR__ . '/resources',
 	'remoteExtPath' => 'SemanticImageInput/resources'
 );
 
