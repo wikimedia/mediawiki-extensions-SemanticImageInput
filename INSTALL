@@ -1,7 +1,7 @@
 These is the install file for the Semantic Image Input extension.
 	
 Extension page on mediawiki.org: https://www.mediawiki.org/wiki/Extension:Semantic_Image_Input
-Latest version of the install file: https://git.wikimedia.org/blob/mediawiki%2Fextensions%2FSemanticImageInput.git/master/INSTALL
+Latest version of the install file: https://phabricator.wikimedia.org/diffusion/ESII/browse/master/INSTALL
 
 
 == Requirements ==
@@ -47,7 +47,7 @@ you should make sure it's set to true instead of adding another copy.
 Configuration of Contest is done by assigning to $egSIISettings in your "LocalSettings.php" file,
 AFTER the inclusion of the extension. The options are listed below and their default is set in the
 settings file:
-https://git.wikimedia.org/blob/mediawiki%2Fextensions%2FSemanticImageInput.git/master/SemanticImageInput.settings.php
+https://phabricator.wikimedia.org/diffusion/ESII/browse/master/SemanticImageInput.settings.php
 You should NOT modify the settings file, but can have a look at it to get an idea of
 how to use the settings, in case the below descriptions do not suffice.
 
