@@ -19,8 +19,8 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 	die( 'Not an entry point.' );
 }
 
-if ( version_compare( $wgVersion, '1.17c', '<' ) ) { // Needs to be 1.17c because version_compare() works in confusing ways
-	die( '<b>Error:</b> Semantic Image Input requires MediaWiki 1.17 or above.' );
+if ( version_compare( $wgVersion, '1.23c', '<' ) ) { // Needs to be 1.23c because version_compare() works in confusing ways
+	die( '<b>Error:</b> Semantic Image Input requires MediaWiki 1.23 or above.' );
 }
 
 // Show an error if Semantic MediaWiki is not loaded.
@@ -33,7 +33,7 @@ if ( ! defined( 'SF_VERSION' ) ) {
 	die( '<b>Error:</b> You need to have <a href="https://www.mediawiki.org/wiki/Extension:Semantic_Forms">Semantic Forms</a> installed in order to use Semantic Image Input.<br />' );
 }
 
-define( 'SII_VERSION', '0.3.0 alpha' );
+define( 'SII_VERSION', '0.4.0' );
 
 $wgExtensionCredits['semantic'][] = array(
 	'path' => __FILE__,
@@ -41,6 +41,7 @@ $wgExtensionCredits['semantic'][] = array(
 	'version' => SII_VERSION,
 	'author' => array(
 		'[https://www.mediawiki.org/wiki/User:Jeroen_De_Dauw Jeroen De Dauw]',
+		'...'
 	),
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Semantic_Image_input',
 	'descriptionmsg' => 'sii-desc',
@@ -49,7 +50,6 @@ $wgExtensionCredits['semantic'][] = array(
 
 // i18n
 $wgMessagesDirs['SemanticImageInput'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['SemanticImageInput'] = __DIR__ . '/SemanticImageInput.i18n.php';
 
 // Autoloading
 $wgAutoloadClasses['SIISettings'] = __DIR__ . '/SemanticImageInput.settings.php';

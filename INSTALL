@@ -8,7 +8,7 @@ Latest version of the install file: https://phabricator.wikimedia.org/diffusion/
 
 Semantic Image Input requires:
 
-* MediaWiki 1.17 or above
+* MediaWiki 1.23 or above
 * Semantic Forms 2.2 or above
 * PHP 5.3 or above
 
