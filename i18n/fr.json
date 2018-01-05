@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gomoko"
+			"Gomoko",
+			"Wladek92"
 		]
 	},
-	"sii-desc": "Ajoute une entrée d'image qui tire ses images de Wikipédia depuis [https://www.mediawiki.org/wiki/Extension:Semantic_Forms les formulaires sémantiques]",
+	"sii-desc": "Ajoute une entrée d'image qui tire ses images de Wikipédia vers [https://www.mediawiki.org/wiki/Extension:Semantic_Forms les formulaires sémantiques]",
 	"sii-imageinput-loading": "Chargement de l'image..."
 }
