@@ -45,7 +45,7 @@ $wgExtensionCredits['semantic'][] = array(
 	),
 	'url' => 'https://www.mediawiki.org/wiki/Extension:Semantic_Image_input',
 	'descriptionmsg' => 'sii-desc',
-	'license-name' => 'GPL-3.0+'
+	'license-name' => 'GPL-3.0-or-later'
 );
 
 // i18n
