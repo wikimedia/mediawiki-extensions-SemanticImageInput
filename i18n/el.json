@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Protnet",
-			"FocalPoint"
+			"FocalPoint",
+			"Protnet"
 		]
 	},
 	"sii-desc": "Προσθέτει πλαίσιο εισαγωγής εικόνων που τραβά εικόνες από τη Βικιπαίδεια στις [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Σημασιολογικές Φόρμες]",
