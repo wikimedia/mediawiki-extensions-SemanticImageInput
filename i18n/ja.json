@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Omotecho",
 			"Shirayuki"
 		]
 	},
-	"sii-desc": "ウィキペディアから[https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Page_Forms ページフォーム]に画像を引き出すための、画像入力を追加する",
+	"sii-desc": "画像を追加するため、ウィキペディアから[https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Page_Forms ページフォーム]に画像を抽出する",
 	"sii-imageinput-loading": "画像を読み込み中..."
 }
