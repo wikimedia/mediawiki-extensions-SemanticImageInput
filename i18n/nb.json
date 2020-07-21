@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Event"
+			"Event",
+			"Jon Harald Søby"
 		]
 	},
-	"sii-desc": "Legger til et element som henter bilder fra Wikipedia til [https://www.mediawiki.org/wiki/Extension:Semantic_Forms Semantic Forms]",
+	"sii-desc": "Legger til et element som henter bilder fra Wikipedia til [https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Page_Forms Page Forms]",
 	"sii-imageinput-loading": "Laster bilde..."
 }
