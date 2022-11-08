@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"ديفيد"
+			"ديفيد",
+			"Meno25"
 		]
 	},
-	"sii-desc": "يضيف إدخال الصورة الذي يسحب الصور من ويكيبيديا إلى [https://www.mediawiki.org/wiki/Extension:Semantic_Forms النماذج الدلالية]",
+	"sii-desc": "يضيف إدخال الصورة الذي يسحب الصور من ويكيبيديا إلى [https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Page_Forms النماذج الدلالية]",
 	"sii-imageinput-loading": "جارٍ تحميل الصورة..."
 }
