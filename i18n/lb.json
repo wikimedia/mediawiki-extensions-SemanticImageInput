@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Krinkle"
 		]
 	},
-	"sii-desc": "Setzt eng Method dobäi fir Biller op Wikipedia vun [https://www.mediawiki.org/wiki//Special:MyLanguage/Extension:Page_Forms  Säite-Formulairen] eriwwer ze huelen",
+	"sii-desc": "Setzt eng Method dobäi fir Biller op Wikipedia vun [https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Page_Forms  Säite-Formulairen] eriwwer ze huelen",
 	"sii-imageinput-loading": "Bild gëtt gelueden..."
 }
