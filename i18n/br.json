@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Fulup"
+			"Fulup",
+			"Huñvreüs"
 		]
 	},
-	"sii-desc": "Ouzhpennañ a ra un enmont skeudenn a dap skeudennoù diwar Wikipedia adalek [https://www.mediawiki.org/wiki/Extension:Semantic_Forms ar furmskridoù sterva]",
+	"sii-desc": "Ouzhpennañ a ra un enmont skeudenn a dap skeudennoù diwar Wikipedia adalek [https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Page_Forms Furmskridoù Pajenn]",
 	"sii-imageinput-loading": "O kargañ ar skeudenn..."
 }
