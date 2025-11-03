@@ -1,5 +1,7 @@
 <?php
 
+use MediaWiki\Html\Html;
+
 /**
  * Form input for adding images from Wikipedia or Wikimedia Commons.
  * 

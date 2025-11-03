@@ -19,8 +19,8 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 	die( 'Not an entry point.' );
 }
 
-if ( version_compare( $wgVersion, '1.23c', '<' ) ) { // Needs to be 1.23c because version_compare() works in confusing ways
-	die( '<b>Error:</b> Semantic Image Input requires MediaWiki 1.23 or above.' );
+if ( version_compare( $wgVersion, '1.40', '<' ) ) {
+	die( '<b>Error:</b> Semantic Image Input requires MediaWiki 1.40 or above.' );
 }
 
 // Show an error if Semantic MediaWiki is not loaded.
