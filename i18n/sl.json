@@ -1,9 +1,0 @@
-{
-	"@metadata": {
-		"authors": [
-			"Eleassar"
-		]
-	},
-	"sii-desc": "Doda slikovni vnos, ki povleče slike iz Wikipedije in Wikimedijine zbirke v [https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:Page_Forms Page Forms]",
-	"sii-imageinput-loading": "Nalaganje slike ..."
-}
